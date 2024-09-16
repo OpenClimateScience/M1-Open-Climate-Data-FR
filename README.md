@@ -1,4 +1,4 @@
-M1 : Données Climatiques Ouvertes (en Français)
+M1 : Données Climatiques Ouvertes
 ===================================
 
 > Comment les satellites de la NASA, les données de terrain et les modèles sont-ils utilisés pour diagnostiquer et prédire le système climatique terrestre ? Comment la variabilité climatique est-elle mesurée et modélisée ?

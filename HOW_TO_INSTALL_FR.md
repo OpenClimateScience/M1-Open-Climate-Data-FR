@@ -31,7 +31,7 @@ nom_utilisateur`; votre nom d'utilisateur Windows, dans cet exemple, serait `nom
 - Ouvrez Windows PowerShell ; à partir du menu **"Démarrer"**, commencez à taper "PowerShell" et cliquez sur l'icône de l'application lorsqu'elle apparaît.
 - Une interface en ligne de commande devrait apparaître. Elle devrait ressembler *à peu près* à la capture d'écran ci-dessous, bien que le texte dans votre fenêtre puisse être légèrement différent.
 
-![]((https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/images/capture_OSGeo4W.png))
+![](https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/images/capture_OSGeo4W.png)
 
 - Tapez ce qui suit et appuyez sur ENTRÉE pour installer les bibliothèques Python nécessaires :
 ```

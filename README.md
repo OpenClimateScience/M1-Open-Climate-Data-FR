@@ -24,7 +24,7 @@ Contenu
 Commencer
 ---------------
 
-[Voir notre guide d'installation ici.](https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/HOW_TO_INSTALL.md)
+[Voir notre guide d'installation ici.](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/HOW_TO_INSTALL_FR.md)
 
 Vous pouvez exécuter les notebooks de ce dépôt en utilisant [Github Codespaces](https://docs.github.com/en/codespaces/overview) ou en tant que [conteneur de développement VSCode](https://code.visualstudio.com/docs/devcontainers/containers). Une fois que votre conteneur est en cours d'exécution, lancez Jupyter Notebook en procédant comme suit :
 

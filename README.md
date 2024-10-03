@@ -12,14 +12,14 @@ Le premier module de notre [programme d'études en sciences du climat ouvert](ht
 Contenu
 ---------------
 
-1. [Sources de données climatiques](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/Notebooks/01_Sources_of_Climate_Data_fr.ipynb)
-2. [Introduction à NASA Earthdata Search et aux données de ré-analyse](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/Notebooks/02_Introduction%20%C3%A0%20NASA%20Earthdata%20Search%20et%20aux%20donn%C3%A9es%20de%20r%C3%A9-analyse.ipynb)
-3. [Lecture des données climatiques maillées de MERRA-2](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/Notebooks/03_Lecture%20des%20donn%C3%A9es%20climatiques%20maill%C3%A9es%20de%20MERRA2.ipynb)
-4. [Accès aux données MERRA-2 dans le cloud](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/Notebooks/04_Acc%C3%A8s_aux_donn%C3%A9es_MERRA-2_dans_le_cloud.ipynb)
-5. [Introduction aux données d’observation de la Terre](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/Notebooks/05_Introduction_aux_donn%C3%A9es_d%E2%80%99observation_de_la_Terre.ipynb)
-6. [Introduction aux modèles climatiques](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/Notebooks/06_Introduction_aux_mod%C3%A8les_climatiques.ipynb)
-7. [Utilisation des données de ré-analyse pour étudier la sécheresse](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/Notebooks/07_Utilisation_des_donn%C3%A9es_de_r%C3%A9-analyse_pour_%C3%A9tudier_la_s%C3%A9cheresse.ipynb)
-8. [Utilisation des observations de la Terre de la NASA](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/Notebooks/08_Utilisation_des_observations_de_la_Terre_de_la_NASA.ipynb)
+1. [Sources de données climatiques](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/notebooks/01_Sources_de_donn%C3%A9es_climatiques.ipynb)
+2. [Introduction à NASA Earthdata Search et aux données de ré-analyse](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/notebooks/02_Introduction_%C3%A0_NASA_Earthdata_Search_et_aux_donn%C3%A9es_de_r%C3%A9-analyse.ipynb)
+3. [Lecture des données climatiques maillées de MERRA-2](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/notebooks/03_Lecture_des_donn%C3%A9es_climatiques_maill%C3%A9es_de_MERRA2.ipynb)
+4. [Accès aux données MERRA-2 dans le cloud](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/notebooks/04_Acc%C3%A8s_aux_donn%C3%A9es_MERRA-2_dans_le_cloud.ipynb)
+5. [Introduction aux données d’observation de la Terre](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/notebooks/05_Introduction_aux_donn%C3%A9es_d%E2%80%99observation_de_la_Terre.ipynb)
+6. [Introduction aux modèles climatiques](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/notebooks/06_Introduction_aux_mod%C3%A8les_climatiques.ipynb)
+7. [Utilisation des données de ré-analyse pour étudier la sécheresse](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/notebooks/07_Utilisation_des_donn%C3%A9es_de_r%C3%A9-analyse_pour_%C3%A9tudier_la_s%C3%A9cheresse.ipynb)
+8. [Utilisation des observations de la Terre de la NASA](https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR/blob/main/notebooks/08_Utilisation_des_observations_de_la_Terre_de_la_NASA.ipynb)
 
 Commencer
 ---------------

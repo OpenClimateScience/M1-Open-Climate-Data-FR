@@ -20,7 +20,7 @@ whoami
 ```
 
 Le résultat de cette commande pourrait être quelque chose comme `organization
-om_utilisateur`; votre nom d'utilisateur Windows, dans cet exemple, serait `nom_utilisateur`.
+nom_utilisateur`; votre nom d'utilisateur Windows, dans cet exemple, serait `nom_utilisateur`.
 
 **Ensuite, nous devons installer Python.**
 
